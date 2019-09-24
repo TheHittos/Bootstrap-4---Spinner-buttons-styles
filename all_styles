@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+
+<title>Page Title</title>
+<style>
+body {
+  margin: 10px;
+  text-align: center;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+</style>
+</head>
+<body>
+
+<!--PRIMARY SPINNER ENABLED -->
+
+<button class="btn btn-primary">
+  <span class="spinner-border spinner-border-sm"></span>
+  Cargando...
+</button>
+
+<button class="btn btn-primary">
+  <span class="spinner-border spinner-border-sm"></span>
+</button>
+
+<button class="btn btn-primary">
+  <span class="spinner-grow spinner-grow-sm"></span>
+   Cargando...
+</button>
+
+<button class="btn btn-primary">
+  <span class="spinner-grow spinner-grow-sm"></span>
+</button>
+
+<br>
+<br>
+
+<!--PRIMARY SPINNER DISABLED -->
+
+<button class="btn btn-primary" disabled>
+  <span class="spinner-border spinner-border-sm"></span>
+  Cargando...
+</button>
+
+<button class="btn btn-primary" disabled>
+  <span class="spinner-border spinner-border-sm"></span>
+</button>
+
+<button class="btn btn-primary" disabled>
+  <span class="spinner-grow spinner-grow-sm"></span>
+   Cargando...
+</button>
+
+<button class="btn btn-primary" disabled>
+  <span class="spinner-grow spinner-grow-sm"></span>
+</button>
+
+<br>
+<br>
+<!--SECONDARY SPINNER ENABLED -->
+
+<button class="btn btn-secondary">
+  <span class="spinner-border spinner-border-sm"></span>
+  Cargando...
+</button>
+
+<button class="btn btn-secondary">
+  <span class="spinner-border spinner-border-sm"></span>
+</button>
+
+<button class="btn btn-secondary">
+  <span class="spinner-grow spinner-grow-sm"></span>
+   Cargando...
+</button>
+
+<button class="btn btn-secondary">
+  <span class="spinner-grow spinner-grow-sm"></span>
+</button>
+
+<br>
+<br>
+
+<!--SECONDARY SPINNER DISABLED -->
+
+<button class="btn btn-secondary" disabled>
+  <span class="spinner-border spinner-border-sm"></span>
+  Cargando...
+</button>
+
+<button class="btn btn-secondary" disabled>
+  <span class="spinner-border spinner-border-sm"></span>
+</button>
+
+<button class="btn btn-secondary" disabled>
+  <span class="spinner-grow spinner-grow-sm"></span>
+   Cargando...
+</button>
+
+<button class="btn btn-secondary" disabled>
+  <span class="spinner-grow spinner-grow-sm"></span>
+</button>
+
+<br>
+<br>
+
+<!--SUCCESS SPINNER ENABLED -->
+
+<button class="btn btn-success">
+  <span class="spinner-border spinner-border-sm"></span>
+  Cargando...
+</button>
+
+<button class="btn btn-success">
+  <span class="spinner-border spinner-border-sm"></span>
+</button>
+
+<button class="btn btn-success">
+  <span class="spinner-grow spinner-grow-sm"></span>
+   Cargando...
+</button>
+
+<button class="btn btn-success">
+  <span class="spinner-grow spinner-grow-sm"></span>
+</button>
+
+<br>
+<br>
+
+<!--SUCCESS SPINNER DISABLED -->
+
+<button class="btn btn-success" disabled>
+  <span class="spinner-border spinner-border-sm"></span>
+  Cargando...
+</button>
+
+<button class="btn btn-success" disabled>
+  <span class="spinner-border spinner-border-sm"></span>
+</button>
+
+<button class="btn btn-success" disabled>
+  <span class="spinner-grow spinner-grow-sm"></span>
+   Cargando...
+</button>
+
+<button class="btn btn-success" disabled>
+  <span class="spinner-grow spinner-grow-sm"></span>
+</button>
+
+<br>
+<br>
+
+<!--DANGER SPINNER ENABLED -->
+
+<button class="btn btn-danger">
+  <span class="spinner-border spinner-border-sm"></span>
+  Cargando...
+</button>
+
+<button class="btn btn-danger">
+  <span class="spinner-border spinner-border-sm"></span>
+</button>
+
+<button class="btn btn-danger">
+  <span class="spinner-grow spinner-grow-sm"></span>
+   Cargando...
+</button>
+
+<button class="btn btn-danger">
+  <span class="spinner-grow spinner-grow-sm"></span>
+</button>
+
+<br>
+<br>
+
+<!--DANGER SPINNER DISABLED -->
+
+<button class="btn btn-danger" disabled>
+  <span class="spinner-border spinner-border-sm"></span>
+  Cargando...
+</button>
+
+<button class="btn btn-danger" disabled>
+  <span class="spinner-border spinner-border-sm"></span>
+</button>
+
+<button class="btn btn-danger" disabled>
+  <span class="spinner-grow spinner-grow-sm"></span>
+   Cargando...
+</button>
+
+<button class="btn btn-danger" disabled>
+  <span class="spinner-grow spinner-grow-sm"></span>
+</button>
+
+<br>
+<br>
+
+<!--WARNING SPINNER ENABLED -->
+
+<button class="btn btn-warning">
+  <span class="spinner-border spinner-border-sm"></span>
+  Cargando...
+</button>
+
+<button class="btn btn-warning">
+  <span class="spinner-border spinner-border-sm"></span>
+</button>
+
+<button class="btn btn-warning">
+  <span class="spinner-grow spinner-grow-sm"></span>
+   Cargando...
+</button>
+
+<button class="btn btn-warning">
+  <span class="spinner-grow spinner-grow-sm"></span>
+</button>
+
+<br>
+<br>
+
+<!--WARNING SPINNER DISABLED -->
+
+<button class="btn btn-warning" disabled>
+  <span class="spinner-border spinner-border-sm"></span>
+  Cargando...
+</button>
+
+<button class="btn btn-warning" disabled>
+  <span class="spinner-border spinner-border-sm"></span>
+</button>
+
+<button class="btn btn-warning" disabled>
+  <span class="spinner-grow spinner-grow-sm"></span>
+   Cargando...
+</button>
+
+<button class="btn btn-warning" disabled>
+  <span class="spinner-grow spinner-grow-sm"></span>
+</button>
+
+<br>
+<br>
+
+<!--INFO SPINNER ENABLED -->
+
+<button class="btn btn-info">
+  <span class="spinner-border spinner-border-sm"></span>
+  Cargando...
+</button>
+
+<button class="btn btn-info">
+  <span class="spinner-border spinner-border-sm"></span>
+</button>
+
+<button class="btn btn-info">
+  <span class="spinner-grow spinner-grow-sm"></span>
+   Cargando...
+</button>
+
+<button class="btn btn-info">
+  <span class="spinner-grow spinner-grow-sm"></span>
+</button>
+
+<br>
+<br>
+
+<!--PRIMARY SPINNER DISABLED -->
+
+<button class="btn btn-info" disabled>
+  <span class="spinner-border spinner-border-sm"></span>
+  Cargando...
+</button>
+
+<button class="btn btn-info" disabled>
+  <span class="spinner-border spinner-border-sm"></span>
+</button>
+
+<button class="btn btn-info" disabled>
+  <span class="spinner-grow spinner-grow-sm"></span>
+   Cargando...
+</button>
+
+<button class="btn btn-info" disabled>
+  <span class="spinner-grow spinner-grow-sm"></span>
+</button>
+
+<br>
+<br>
+
+<!--LIGHT SPINNER ENABLED -->
+
+<button class="btn btn-light">
+  <span class="spinner-border spinner-border-sm"></span>
+  Cargando...
+</button>
+
+<button class="btn btn-light">
+  <span class="spinner-border spinner-border-sm"></span>
+</button>
+
+<button class="btn btn-light">
+  <span class="spinner-grow spinner-grow-sm"></span>
+   Cargando...
+</button>
+
+<button class="btn btn-light">
+  <span class="spinner-grow spinner-grow-sm"></span>
+</button>
+
+<br>
+<br>
+
+<!--LIGHT SPINNER DISABLED -->
+
+<button class="btn btn-light" disabled>
+  <span class="spinner-border spinner-border-sm"></span>
+  Cargando...
+</button>
+
+<button class="btn btn-light" disabled>
+  <span class="spinner-border spinner-border-sm"></span>
+</button>
+
+<button class="btn btn-light" disabled>
+  <span class="spinner-grow spinner-grow-sm"></span>
+   Cargando...
+</button>
+
+<button class="btn btn-light" disabled>
+  <span class="spinner-grow spinner-grow-sm"></span>
+</button>
+
+<br>
+<br>
+<!--DARK SPINNER ENABLED -->
+
+<button class="btn btn-dark">
+  <span class="spinner-border spinner-border-sm"></span>
+  Cargando...
+</button>
+
+<button class="btn btn-dark">
+  <span class="spinner-border spinner-border-sm"></span>
+</button>
+
+<button class="btn btn-dark">
+  <span class="spinner-grow spinner-grow-sm"></span>
+   Cargando...
+</button>
+
+<button class="btn btn-dark">
+  <span class="spinner-grow spinner-grow-sm"></span>
+</button>
+
+<br>
+<br>
+
+<!--DARK SPINNER DISABLED -->
+
+<button class="btn btn-dark" disabled>
+  <span class="spinner-border spinner-border-sm"></span>
+  Cargando...
+</button>
+
+<button class="btn btn-dark" disabled>
+  <span class="spinner-border spinner-border-sm"></span>
+</button>
+
+<button class="btn btn-dark" disabled>
+  <span class="spinner-grow spinner-grow-sm"></span>
+   Cargando...
+</button>
+
+<button class="btn btn-dark" disabled>
+  <span class="spinner-grow spinner-grow-sm"></span>
+</button>
+
+<br>
+<br>
+
+</body>
+</html>
